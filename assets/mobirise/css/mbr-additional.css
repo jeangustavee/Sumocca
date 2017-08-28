@@ -1255,7 +1255,7 @@ body {
   min-height: 100vh;
 }
 .cid-qtyNB24N5Q {
-  background-image: url("../../../assets/images/sumocca-hero-1.jpg");
+  background-image: url("../../../assets/images/sumocca-hero-2000x1333.jpg");
 }
 .cid-qtyNB24N5Q .mbr-text,
 .cid-qtyNB24N5Q .mbr-section-btn P {
@@ -2234,6 +2234,53 @@ body {
     padding-left: 0;
   }
 }
+.cid-qtDMmDxP9i {
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-color: #425868;
+  position: relative;
+}
+.cid-qtDMmDxP9i .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-qtDMmDxP9i .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-qtDMmDxP9i .card .card-header a.panel-title {
+  margin-bottom: 0;
+  font-style: normal;
+  font-weight: 500;
+  display: block;
+  text-decoration: none !important;
+  margin-top: -1px;
+  line-height: normal;
+}
+.cid-qtDMmDxP9i .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-qtDMmDxP9i .card .card-header a.panel-title h4 {
+  padding: 1.3rem 2rem;
+  border: 1px solid #dfdfdf;
+  margin-bottom: 0;
+}
+.cid-qtDMmDxP9i .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-qtDMmDxP9i .card .panel-body {
+  color: #767676;
+}
+.cid-qtDMmDxP9i H2 {
+  color: #ffffff;
+}
+.cid-qtDMmDxP9i H4 {
+  color: #ffffff;
+}
+.cid-qtDMmDxP9i .panel-text {
+  color: #ffffff;
+}
 .cid-qtBHVPD2RW {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2695,7 +2742,7 @@ body {
 .cid-qtBJtjHtwg {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/how-it-works-bg-1660x7155.jpg");
+  background-image: url("../../../assets/images/hero-2000x1333.jpg");
 }
 .cid-qtBJy5juEi {
   padding-top: 120px;
@@ -2867,7 +2914,7 @@ body {
 .cid-qtBSN5jjMa {
   padding-top: 120px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/contact.jpg");
+  background-image: url("../../../assets/images/contact-1660x594.jpg");
 }
 .cid-qtBTxpRYz8 {
   padding-top: 90px;
@@ -3706,7 +3753,7 @@ body {
 .cid-qtBTYNJXK2 {
   padding-top: 120px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/how-it-works-bg-1660x7155.jpg");
+  background-image: url("../../../assets/images/how-it-works-bg-1660x590.jpg");
 }
 .cid-qtBU0mOZJn {
   padding-top: 90px;
