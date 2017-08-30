@@ -1,11 +1,10 @@
 <?php // Create a customer using a Stripe token
 
-// If you're using Composer, use Composer's autoload:
-require_once('vendor/autoload.php');
+
 
 // Be sure to replace this with your actual test API key
 // (switch to the live key later)
-\Stripe\Stripe::setApiKey("pk_live_5i1ap978TrbomG1lPDo9nwT4");
+\Stripe\Stripe::setApiKey("sk_test_pz31dgDfJzKdz0uAAPiLePUO");
 
 try
 {

@@ -1255,7 +1255,7 @@ body {
   min-height: 100vh;
 }
 .cid-qtyNB24N5Q {
-  background-image: url("../../../assets/images/sumocca-hero-2000x1333.jpg");
+  background-image: url("../images/sumocca-hero-2000x1333.jpg");
 }
 .cid-qtyNB24N5Q .mbr-text,
 .cid-qtyNB24N5Q .mbr-section-btn P {
@@ -1643,7 +1643,7 @@ body {
 .cid-qtz1GokatZ {
   padding-top: 135px;
   padding-bottom: 135px;
-  background-image: url("../../../assets/images/icons.gif");
+  background-image: url("../images/icons.gif");
 }
 .cid-qtz1GokatZ .mbr-text {
   color: #767676;
@@ -1661,7 +1661,7 @@ body {
 .cid-qtz52TH3YK {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/home-1999x1297.jpg");
+  background-image: url("../images/home-1999x1297.jpg");
 }
 .cid-qtz52TH3YK .mbr-section-subtitle {
   color: #ffffff;
@@ -2150,7 +2150,7 @@ body {
 .cid-qtBBHDRqF0 {
   padding-top: 120px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/how-it-works-bg-1660x715.jpg");
+  background-image: url("../images/how-it-works-bg-1660x715.jpg");
 }
 .cid-qtBEs2o6fZ {
   padding-top: 120px;
@@ -2743,7 +2743,7 @@ body {
 .cid-qtBJtjHtwg {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/hero-2000x1333.jpg");
+  background-image: url("../images/hero-2000x1333.jpg");
 }
 .cid-qtBJy5juEi {
   padding-top: 120px;
@@ -3754,7 +3754,7 @@ body {
 .cid-qtBTYNJXK2 {
   padding-top: 120px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/how-it-works-bg-1660x590.jpg");
+  background-image: url("../images/how-it-works-bg-1660x590.jpg");
 }
 .cid-qtBU0mOZJn {
   padding-top: 90px;
@@ -3860,4 +3860,24 @@ body {
     display: block;
     margin: 0 auto;
     width: 100px;
+}
+
+.paypal_btn{
+	display: inline-block;
+	font-family: inherit;
+	font-size: 14px;
+	font-weight: bold;
+	color: #C1C1C1;
+	text-align: center;
+	padding: 10px 29px;
+	margin: 0;
+	background: #547084;
+	border: solid 2px #C1C1C1;
+	cursor: pointer;
+	outline: none;
+	}
+
+.paypal_btn:hover{
+    background: #425868;
+    border: solid 2px #425868;
 }
